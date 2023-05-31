@@ -1,0 +1,21 @@
+.notesItems{
+    width: 30%;
+    margin-top: 40px; 
+    
+}
+
+/*  card icons */
+.cardIcon{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 15px;
+}
+.deleteBtn{
+    font-size: 30px;
+    cursor: pointer;
+    transition: .5s;
+}
+.deleteBtn:hover{
+    color: red;
+}
